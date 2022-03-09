@@ -1,6 +1,8 @@
 # SimpleBoard_v1
-CodeIgniter 와 Vue.js 를 사용한 심플게시판 v1 입니다.
+CodeIgniter 와 Vue.js 학습을 위한 심플게시판 v1 입니다.
 
+
+# 요구사항
 CodeIgniter 3.x 를 다운받아 웹호스팅 환경을 준비합니다.
 
 MySQL 데이타베이스에 아래 쿼리로 테이블 생성합니다.
