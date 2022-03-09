@@ -20,3 +20,6 @@ CREATE TABLE `board` (`idx` int(10) NOT NULL AUTO_INCREMENT,`subject` varchar(50
 ```
 
 7. 홈페이지 최상위 디렉토리에 assets/js 디렉토리 생성 후 vue.min.js, axios.min.js 파일 저장합니다.
+
+# 미리보기
+![예시](./SimpleBoard_v1.gif)
