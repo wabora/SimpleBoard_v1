@@ -65,7 +65,7 @@ let app = new Vue({
     },
 	methods:{
         get(){ axios.get(this.url+"/board/get").then(function(response){
-                app.get_data(response.data.rows);
+				app.rows = response.data.rows;
             })
         },
 
@@ -100,10 +100,6 @@ let app = new Vue({
 				}
             })
 		},
-		
-		get_data(rows){
-            app.rows = rows;
-        },
 		
 		select_post(post){
             app.choose_post = post; 
