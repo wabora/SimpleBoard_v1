@@ -1,0 +1,15 @@
+# CodeIgniter Directory
+system/*
+application/cache/*
+application/config/*
+application/core/*
+application/helpers/*
+application/hooks/*
+application/language/*
+application/libraries/*
+application/logs/*
+application/third_party/*
+
+# CodeIgniter Files
+application/index.html
+application/.htaccess
