@@ -128,7 +128,6 @@ let app = new Vue({
 			},2500);
         }
     }
-	ALERT('A');
 })
 </script>
 </html>
