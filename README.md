@@ -26,4 +26,4 @@ CREATE TABLE `board` (`idx` int(10) NOT NULL AUTO_INCREMENT,`subject` varchar(50
 # 미리보기
 ![예시](./SimpleBoard_v1.gif)
 
-하하호호
+성공
