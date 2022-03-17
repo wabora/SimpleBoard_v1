@@ -13,3 +13,4 @@ application/third_party/*
 # CodeIgniter Files
 application/index.html
 application/.htaccess
+index.php
